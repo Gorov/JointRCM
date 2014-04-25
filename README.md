@@ -3,7 +3,9 @@ JointRCM
 Tools for improving word embeddings with paraphrasing knowledge
 ------------------------------------------------------
 
-CODE DESCRIPTION:
+###################
+#CODE DESCRIPTION:#
+###################
 
 We provide three tools in this package:
 
@@ -41,4 +43,8 @@ Language model file has the similar data structure to that of the embedding file
 This tool is used for evaluating the MRR scores on evaluation data of the paraphrasing tasks.
 Usage:
 
-DATA DESCRIPTION:
+###################
+#DATA DESCRIPTION:#
+###################
+Todo.
+
