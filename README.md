@@ -1,7 +1,9 @@
 JointRCM
 =======
-Tools for improving word embeddings with paraphrasing knowledge
-------------------------------------------------------
+
+Tools for improving word embeddings with paraphrasing knowledge.
+These tools are used in the following paper:
+Mo Yu, Mark Dredze. Improving Lexical Embeddings with Semantic Knowledge. ACL2014 short (accepted).
 
 ###################
 #CODE DESCRIPTION:#
@@ -41,10 +43,14 @@ Language model file has the similar data structure to that of the embedding file
 #eval          #
 ################
 This tool is used for evaluating the MRR scores on evaluation data of the paraphrasing tasks.
-Usage:
 
 ###################
 #DATA DESCRIPTION:#
 ###################
 Todo.
 
+References
+=======
+Mo Yu, Mark Dredze. Improving Lexical Embeddings with Semantic Knowledge. ACL2014 short (accepted).
+
+For questions, comments or to report bugs, please contact gflfof@gmail.com
