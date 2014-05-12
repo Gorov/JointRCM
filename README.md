@@ -7,6 +7,8 @@ These tools are used in the following paper:
 
 Mo Yu, Mark Dredze. Improving Lexical Embeddings with Semantic Knowledge. ACL2014 short (accepted).
 
+(The evaluation data and some new code for the camera-ready paper will be updated after June.)
+
 ###################
 #CODE DESCRIPTION:#
 ###################
