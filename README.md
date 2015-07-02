@@ -51,7 +51,8 @@ This tool is used for evaluating the MRR scores on evaluation data of the paraph
 ###################
 #DATA DESCRIPTION:#
 ###################
-Todo.
+UPDATED:
+You can find the training data in our paper at https://www.dropbox.com/sh/ju8ed7nhzylyh43/AADXCy6pNZwEzsolorGlSOLsa?dl=0
 
 References
 =======
