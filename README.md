@@ -54,6 +54,8 @@ This tool is used for evaluating the MRR scores on evaluation data of the paraph
 UPDATED:
 You can find the training data in our paper at https://www.dropbox.com/sh/ju8ed7nhzylyh43/AADXCy6pNZwEzsolorGlSOLsa?dl=0
 
+The word embeddings can be found at http://yumo.asiteof.me/data/vectors.nyt2011.cbow.bin
+
 References
 =======
 [1] Mo Yu, Mark Dredze. Improving Lexical Embeddings with Semantic Knowledge. ACL2014 short (accepted).
